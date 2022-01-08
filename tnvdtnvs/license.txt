@@ -1,0 +1,11 @@
+Model Information:
+* title:	TNV/DTNVS
+* source:	https://sketchfab.com/3d-models/tnvdtnvs-10c5c86971ff443caba9a7e2fe33abd1
+* author:	AntijnvanderGun (https://sketchfab.com/AntijnvanderGun)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "TNV/DTNVS" (https://sketchfab.com/3d-models/tnvdtnvs-10c5c86971ff443caba9a7e2fe33abd1) by AntijnvanderGun (https://sketchfab.com/AntijnvanderGun) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
